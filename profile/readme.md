@@ -1,1 +1,1 @@
-![Warp Drive Data](https://github.com/warp-drive-data/.github/tree/main/profile/github-header.svg)
+![Warp Drive Data](https://raw.githubusercontent.com/warp-drive-data/.github/refs/heads/main/profile/github-header.svg)
